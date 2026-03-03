@@ -13,7 +13,7 @@ Hi, I'm Im Boukedjani Imad, a cyber security student driven by a fascination for
 **About Me :** 
 - CTF Player 
 - Top 1% THM 
-- 💼 Contact ? do reach, [email](mailto:imad.boukedjani@gmail.com) :)
+- 💼 Contact ? do reach
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
