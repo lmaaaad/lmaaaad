@@ -1,8 +1,5 @@
-Hi, I'm Im Boukedjani Imad, a cyber security student driven by a fascination for the ever-evolving landscape of digital security. My journey began as a self-taught developer. Now, I'm transitioning into the realm of cybersecurity, where I'm eager to apply my skills to fortify digital infrastructures, detect vulnerabilities, and protect against emerging threats. My goal is to contribute to a safer and more secure digital world through meticulous attention to security architecture and code quality.
+im not mad 
 
-
-<a href="https://www.linkedin.com/in/boukedjani-imad/" target="blank">
-  <img align="center" src="https://proinfluent.b-cdn.net/wp-content/uploads/2019/05/Logo-LinkedIn-officiel.png " alt="imad-boukedjani" height="40" /></a>&nbsp;
 <a href="https://tryhackme.com/p/lmaaad" target="blank">
   <img align="center" src="https://tryhackme.com/img/logo/tryhackme_logo.svg" alt="lmaaad" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/lmaaad#8037" target="blank">
